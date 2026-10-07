@@ -92,7 +92,3 @@ The SQL uses PostgreSQL features including `ILIKE`, Boolean values, and `NUMERIC
 
 SQL joins, filtering, aggregation, grouping, ordering, CTEs, database/table setup, and translating job-market questions into repeatable analyses.
 
-## License
-
-No license file was present in the repository when this README was prepared. Add a license if you want others to reuse the project under stated terms.
-
