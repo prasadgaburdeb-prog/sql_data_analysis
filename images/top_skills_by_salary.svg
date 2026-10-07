@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="610" viewBox="0 0 1000 610" role="img" aria-labelledby="title desc">
+  <title id="title">Top 10 skills by average annual salary</title>
+  <desc id="desc">Horizontal bars show the ten highest average salary results supplied for skills. Golang leads at 145,000, followed by Redis at 128,500 and Elasticsearch at 118,000.</desc>
+  <rect width="1000" height="610" fill="#ffffff"/>
+  <text x="42" y="46" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#172b4d">Top skills by average annual salary</text>
+  <text x="42" y="74" font-family="Arial, sans-serif" font-size="14" fill="#58677c">Average salary, as reported in the supplied query output · top 10 of 25 skills</text>
+  <g font-family="Arial, sans-serif" font-size="14" fill="#28384d">
+    <text x="42" y="126">Golang</text><text x="42" y="170">Redis</text><text x="42" y="214">Elasticsearch</text><text x="42" y="258">DynamoDB</text><text x="42" y="302">PyTorch</text><text x="42" y="346">TensorFlow</text><text x="42" y="390">scikit-learn</text><text x="42" y="434">Bitbucket</text><text x="42" y="478">npm</text><text x="42" y="522">Unify</text>
+  </g>
+  <g fill="#e9edf2">
+    <rect x="190" y="108" width="650" height="25" rx="4"/><rect x="190" y="152" width="650" height="25" rx="4"/><rect x="190" y="196" width="650" height="25" rx="4"/><rect x="190" y="240" width="650" height="25" rx="4"/><rect x="190" y="284" width="650" height="25" rx="4"/><rect x="190" y="328" width="650" height="25" rx="4"/><rect x="190" y="372" width="650" height="25" rx="4"/><rect x="190" y="416" width="650" height="25" rx="4"/><rect x="190" y="460" width="650" height="25" rx="4"/><rect x="190" y="504" width="650" height="25" rx="4"/>
+  </g>
+  <g fill="#2878b5">
+    <rect x="190" y="108" width="650" height="25" rx="4"/><rect x="190" y="152" width="576" height="25" rx="4"/><rect x="190" y="196" width="529" height="25" rx="4"/><rect x="190" y="240" width="515" height="25" rx="4"/><rect x="190" y="284" width="504" height="25" rx="4"/><rect x="190" y="328" width="504" height="25" rx="4"/><rect x="190" y="372" width="498" height="25" rx="4"/><rect x="190" y="416" width="498" height="25" rx="4"/><rect x="190" y="460" width="498" height="25" rx="4"/><rect x="190" y="504" width="498" height="25" rx="4"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#172b4d">
+    <text x="852" y="126">145,000</text><text x="778" y="170">128,500</text><text x="731" y="214">118,000</text><text x="717" y="258">115,000</text><text x="706" y="302">112,500</text><text x="706" y="346">112,500</text><text x="700" y="390">111,229</text><text x="700" y="434">111,175</text><text x="700" y="478">111,175</text><text x="700" y="522">111,175</text>
+  </g>
+  <line x1="190" y1="554" x2="840" y2="554" stroke="#98a4b3" stroke-width="1"/>
+  <g font-family="Arial, sans-serif" font-size="12" fill="#58677c" text-anchor="middle">
+    <text x="190" y="576">0</text><text x="414" y="576">50,000</text><text x="638" y="576">100,000</text><text x="840" y="576">145,000</text>
+  </g>
+  <g stroke="#c6ced8" stroke-width="1"><line x1="190" y1="548" x2="190" y2="559"/><line x1="414" y1="548" x2="414" y2="559"/><line x1="638" y1="548" x2="638" y2="559"/><line x1="840" y1="548" x2="840" y2="559"/></g>
+</svg>
